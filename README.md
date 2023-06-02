@@ -1,4 +1,3 @@
-# Ashraful Haque
 ## Data Professional
 
 #### Project 01- [US Airlines Flight Record](https://github.com/imashrafh/Portfolio/tree/master/US%20Airlines%20Flight%20Record)
